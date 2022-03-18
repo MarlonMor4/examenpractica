@@ -19,6 +19,6 @@ public class Main {
         System.out.println(suma);
         System.out.print("El promedio es:");
         System.out.print(promedio);
-    
+
     }
 }
